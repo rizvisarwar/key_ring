@@ -1,0 +1,8 @@
+C:\Users\Rizvi\Documents\Visual Studio 2005\Projects\key_ring\key_ring\bin\Debug\key_ring.exe
+C:\Users\Rizvi\Documents\Visual Studio 2005\Projects\key_ring\key_ring\bin\Debug\key_ring.pdb
+C:\Users\Rizvi\Documents\Visual Studio 2005\Projects\key_ring\key_ring\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rizvi\Documents\Visual Studio 2005\Projects\key_ring\key_ring\obj\Debug\key_ring.Form1.resources
+C:\Users\Rizvi\Documents\Visual Studio 2005\Projects\key_ring\key_ring\obj\Debug\key_ring.Properties.Resources.resources
+C:\Users\Rizvi\Documents\Visual Studio 2005\Projects\key_ring\key_ring\obj\Debug\key_ring.csproj.GenerateResource.Cache
+C:\Users\Rizvi\Documents\Visual Studio 2005\Projects\key_ring\key_ring\obj\Debug\key_ring.exe
+C:\Users\Rizvi\Documents\Visual Studio 2005\Projects\key_ring\key_ring\obj\Debug\key_ring.pdb
